@@ -16,6 +16,8 @@ Then download and unzip the phantoms dataset that you can obtain from [this link
 
 Then you can use the evaluation notebook to make the evaluation or the training notebook to train the same or new models.
 
+In order to evaluate the models without training them yourself you have to download the weights from [this link](https://drive.google.com/file/d/17foe-jJDtmkqZ2wY4xr8PGNOc_O2AqU-/view?usp=share_link) and unzip it in the training_0 folder.
+
 Every result is reported in [this Comet](https://www.comet.com/julieta-umpierrez/fantomas-mamarios/view/MV7RIrK9eCj9F6Igw9QPxYZZs/panels)
 
 Please do not hesitate to open an issue if you have any questions or directly contact me at: jumpierrez@fing.edu.uy
